@@ -21,22 +21,6 @@ This project helps radiologists and researchers speed up tumor detection and ass
 
 ---
 
-## 📊 Dataset
-
-This project uses publicly available Brain MRI datasets, such as:
- 
-Download: https://www.kaggle.com/datasets/ahmedabuzar/brain-tumor-mri-data-set
-
----
-
-## 📈 Trained Model
-
-Trained model is also publicly available:
-
-Download: https://www.kaggle.com/models/ahmedabuzar/brain-tumor-detection
-
----
-
 ## 📦 Installation
 
 Clone the project and install dependencies:
